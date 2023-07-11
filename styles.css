@@ -24,6 +24,7 @@ body {
 }
 
 .gallery {
+    gap: 16px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
